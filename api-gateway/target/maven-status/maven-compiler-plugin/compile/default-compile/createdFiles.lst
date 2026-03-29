@@ -1,0 +1,7 @@
+com\healthcare\gateway\service\GatewayAuditLogService.class
+com\healthcare\gateway\filter\RequestLoggingGlobalFilter.class
+com\healthcare\gateway\repository\GatewayAuditLogRepository.class
+com\healthcare\gateway\model\GatewayAuditLog.class
+com\healthcare\gateway\ApiGatewayApplication.class
+com\healthcare\gateway\config\GatewayErrorAttributes.class
+com\healthcare\gateway\controller\GatewayAuditLogController.class

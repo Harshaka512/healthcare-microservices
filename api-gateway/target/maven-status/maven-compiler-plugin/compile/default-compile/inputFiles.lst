@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\healthcare-microservices\api-gateway\src\main\java\com\healthcare\gateway\config\GatewayErrorAttributes.java
+C:\Users\User\OneDrive\Desktop\healthcare-microservices\api-gateway\src\main\java\com\healthcare\gateway\controller\GatewayAuditLogController.java
+C:\Users\User\OneDrive\Desktop\healthcare-microservices\api-gateway\src\main\java\com\healthcare\gateway\filter\RequestLoggingGlobalFilter.java
+C:\Users\User\OneDrive\Desktop\healthcare-microservices\api-gateway\src\main\java\com\healthcare\gateway\repository\GatewayAuditLogRepository.java
+C:\Users\User\OneDrive\Desktop\healthcare-microservices\api-gateway\src\main\java\com\healthcare\gateway\model\GatewayAuditLog.java
+C:\Users\User\OneDrive\Desktop\healthcare-microservices\api-gateway\src\main\java\com\healthcare\gateway\service\GatewayAuditLogService.java
+C:\Users\User\OneDrive\Desktop\healthcare-microservices\api-gateway\src\main\java\com\healthcare\gateway\ApiGatewayApplication.java
