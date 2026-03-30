@@ -1,0 +1,10 @@
+com\healthcare\appointment\model\AppointmentStatus.class
+com\healthcare\appointment\config\OpenApiConfig.class
+com\healthcare\appointment\exception\ErrorResponse.class
+com\healthcare\appointment\repository\AppointmentRepository.class
+com\healthcare\appointment\AppointmentServiceApplication.class
+com\healthcare\appointment\service\AppointmentService.class
+com\healthcare\appointment\controller\AppointmentController.class
+com\healthcare\appointment\exception\AppointmentNotFoundException.class
+com\healthcare\appointment\exception\GlobalExceptionHandler.class
+com\healthcare\appointment\model\Appointment.class
