@@ -5,14 +5,9 @@ spring:
   application:
     name: payment-service
   datasource:
-    # Use 127.0.0.1 to avoid MySQL host-matching issues between 'localhost' and '127.0.0.1'
-    # Override these via environment variables when your MySQL credentials differ.
-    url: jdbc:mysql://${DB_HOST:127.0.0.1}:${DB_PORT:3306}/healthcare_payment?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
-    username: ${DB_USERNAME:root}
-    # Do not hardcode a likely-wrong default password.
-    # If your MySQL root password is set, start with:
-    #   $env:DB_PASSWORD="your_password"
-    password: ${DB_PASSWORD:}
+    url: jdbc:mysql://127.0.0.1:3306/healthcare_payment?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    username: root
+    password: manoj7678
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
